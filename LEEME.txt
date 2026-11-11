@@ -1,9 +1,0 @@
-MI SEMANA – INSTALACIÓN EN GITHUB PAGES
-
-1. Descomprime este ZIP.
-2. Sube TODO el contenido a la raíz del repositorio: index.html, manifest.webmanifest, sw.js, icons/ y los dos archivos de instrucciones.
-3. En GitHub abre Settings > Pages > Deploy from a branch > main > /(root).
-4. Espera a que termine la publicación y abre la dirección HTTPS de GitHub Pages.
-
-Incluye horario inicial de lunes a viernes, sábado y domingo vacíos, fecha y mes de cada día, frases diarias, checks, progreso, notas, edición de actividades, nombre y título editables, crédito Toledo-AppStudio by P.Fdez y conexión opcional con Google Calendar.
-Los datos se guardan en el dispositivo. Exporta copias de seguridad desde Ajustes para trasladarlos.
