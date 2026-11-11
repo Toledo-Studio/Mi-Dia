@@ -1,0 +1,34 @@
+MI SEMANA · TOLEDO-APPSTUDIO
+
+Sube todo el contenido de este ZIP a la raíz de tu repositorio GitHub Pages.
+En Ajustes pulsa «Exportar calendario (.ics)» para descargar tus actividades y abrirlas
+o importarlas en Google Calendar, Apple Calendar, Outlook u otra aplicación compatible.
+
+El archivo .ics incluye todas las actividades de lunes a domingo:
+- Las actividades semanales se exportan como eventos recurrentes.
+- Las actividades «Solo esta vez» se exportan como eventos únicos.
+- Si los avisos están activados, se incluye una alarma con la antelación configurada.
+
+«Exportar copia» e «Importar copia» siguen sirviendo para guardar y recuperar los datos
+propios de Mi Semana. No son lo mismo que exportar el calendario.
+
+Creado por Toledo-AppStudio by P.Fdez
+
+
+MEJORAS TDAH (11/11/2026)
+- Modo foco: muestra una actividad cada vez.
+- Pasos pequeños con casillas dentro de cada actividad.
+- Temporizador con opción de descanso de 5 minutos.
+- Estrellas positivas al completar actividades, sin penalizaciones.
+- Avisos de transición configurables (5 o 10 minutos).
+Nota: los avisos dependen de que la aplicación esté abierta o activa en segundo plano; no se garantiza su entrega si se cierra por completo.
+
+
+CORRECCIÓN MODO FOCO v3:
+Al marcar la actividad enfocada como completada, la app sale automáticamente del modo foco y vuelve a mostrar todas las actividades del día. También se ha aclarado el botón para volver a la vista completa.
+
+
+CAMBIO v4: Se ha quitado el botón de temporizador de las tarjetas de actividades. El temporizador y el descanso de 5 minutos quedan accesibles únicamente desde el modo foco. Si hay un temporizador activo y sales del modo foco, queda pausado visualmente/oculto y vuelve a mostrarse al entrar de nuevo; el conteo sigue su curso.
+
+
+MEJORA DEL TEMPORIZADOR EN MODO FOCO (v5): reloj grande y centrado, con tonos malva/gris discretos. En los últimos cinco segundos realiza destellos suaves. Al llegar a cero muestra el aviso de tiempo terminado, pero NO marca la actividad como completada ni la elimina; la usuaria decide manualmente si la completa o vuelve a iniciarla.
